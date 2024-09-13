@@ -1,0 +1,6 @@
+CREATE TABLE Login (
+  idLogin INTEGER NOT NULL,
+  Nome VARCHAR(255) NULL,
+  Email VARCHAR(255) NULL,
+  PRIMARY KEY(idLogin)
+);
