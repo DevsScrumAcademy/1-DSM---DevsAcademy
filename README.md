@@ -4,9 +4,27 @@
 # Tem como intuito o desenvolvimento de um projeto aplicando metodologias ágeis e seguindo todos os processos que envolvem tal método. A FATEC propôs aos alunos do 1° semestre de 2024 criar um produto cujo objetivo seja ensinar aos usuários sobre a metodologia Scrum e ao final do curso, a pessoa consegue emitir um certificado. #
 
 
+<h2>Andamento</h2>
 
+<table>
+    <tr>
+        <th>Sprint</th>
+        <th>Previsão de Entrega</th>
+        <th>Status</th>
+        <th>Backlog das Sprints</th>
+        <th>Retrospectiva das Sprints</th>
+    </tr>
+    <tr>
+        <td>1</td>
+        <td>04/10/2024</td>
+        <td>Trabalhando</td>
+        <td>-</td>
+        <td>-</td>
+    </tr>
+</table>
 
 <h2>Equipe</h2>
+
 <table>
     <tr>
         <th>Função</th>
