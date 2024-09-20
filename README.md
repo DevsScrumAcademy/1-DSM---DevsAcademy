@@ -17,19 +17,19 @@
         <td>01</td>
         <td>10/09/24</td>
         <td>04/10/24</td>
-        <td>🟨</td>
+        <td>🟨 em andamento</td>
     </tr>
     <tr>
         <td>02</td>
         <td>07/10/24</td>
         <td>01/11/24</td>
-        <td>🟥</td>
+        <td>🟥 não iniciado</td>
     </tr>
     <tr>
         <td>03</td>
         <td>04/11/24</td>
         <td>22/11/24</td>
-        <td>🟥</td>
+        <td>🟥 não iniciado</td>
     </tr>
     </tr>
 </table>
