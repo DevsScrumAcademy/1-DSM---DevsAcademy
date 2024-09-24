@@ -98,4 +98,14 @@
         <td>Isac Carvalho</td>
         <td><a href=https://github.com/IsacCarvalho2><img src="Images/github-logo.png" style="height:20px; width:20px;"></a></td>
     </tr>
+    <tr>
+        <td>Developer</td>
+        <td>Rafael Shinji Tomokame</td>
+        <td><a href=https://github.com/RafaelShinjiTomokame><img src="Images/github-logo.png" style="height:20px; width:20px;"></a></td>
+    </tr>
+    <tr>
+        <td>Developer</td>
+        <td>João Pedro</td>
+        <td><a href=https://github.com/Shynj0><img src="Images/github-logo.png" style="height:20px; width:20px;"></a></td>
+    </tr>
 </table>
