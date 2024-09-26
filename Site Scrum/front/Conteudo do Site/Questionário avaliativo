@@ -2,7 +2,8 @@ Questões Módulo 1
 
 1 De acordo com a Metodologia SCRUM ela séria uma Gestão ágil, que ajuda as equipes a trabalharem em conjunto e atingir o objetivo da entrega do produto?
 
-A- Correto
+A- Verdadeiro(correto)
+B- Falso
 
 2 Analise as afirmativas a seguir em (V) Verdadeiro ou (F) Falso.
 
@@ -12,20 +13,22 @@ c- Incremento: O incremento é o produto final a ser entregue ao final do projet
 d- O ciclo do SCRUM segue a seguinte ordem: Sprint Planning, Daily Scrum, Sprint Review e Sprint Retrospective (V)
 
 a- VFVF
-b- VVFV
+b- VVFV(correto)
 c- FFVF
 d- VFFV
 
 3- A principal característica do SCRUM séria por não seguir nenhuma ordem específica nem requisitos específicos. A equipe fica livre para decidir qual será o melhor modo de iniciar o projeto, e não há entregas parciais do produto, apenas o produto final?
 
-A- Falso
+A- Falso(correto)
+B- Verdadeiro
 
 
 Módulo 2
 
 1- Séria certo afirma que o Product Owner ele séria o guardião do sucesso do projeto, onde representa os interesses dos stakeholders e é responsável por priorizar as necessidades do cliente ?
 
-A-Verdadeiro
+A- Falso
+B-Verdadeiro(correto)
 
 2- Marque (V) para Verdadeito ou (F) Para falso.
 
@@ -34,10 +37,10 @@ b- O Product owner deve, definir as funcionalidades, priorizar os itens, mapear 
 c- O SCRUM master deve fazer reuniões de planejamento,fazer Revisões do sprint; Administrar o quadro; ter Conversas individuais com cada membro do DEV SCRUM, garantir que cada membro seja capaz de executar suas tarefas e garantir materiais que faça isso possível. (V)
 d- As atividades da Equipe de desenvolvimento incluem, Execução da Sprint; Inspeção diária e adaptação; Preparação do Backlog do produto; Planejamento da sprint; Adaptação do produto e processo. (V)
 
-a- fvfv
-b- vvff
-c- fvvf
-d- fvvv (Correta)
+a- FVFV
+b- VVFF
+c- FVVF
+d- FVVV (Correta)
 
 3- Marque (V) para Verdadeito ou (F) Para falso.
 
@@ -46,10 +49,10 @@ b- Os SCRUM DEVs são um nível hierárquico abaixo do SCRUM Master e do Product
 c- Na metodologia SCRUM todos os membros da equipe são iguais em nível hierárquico, apenas desenvolvem funções diferentes dentro do projeto.(V)
 d- Em um projeto SCRUM pode haver mais de um SCRUM Master e mais do que um P.O (Product Owner). (F)
 
-a- vfvv
-b- vfvf (Correta)
-c- ffvv
-d- vffv
+a- VFVV
+b- VFVF (Correta)
+c- FFVV
+d- VFFV
 
 Questões Módulo 3
 
@@ -91,14 +94,14 @@ Questões Módulo 4
  *GRÁFICO DO BRUNDOWN;
 
 a - Verdadeiro
-b - falso (resposta correta)
+b - Falso (resposta correta)
 
 2 Os artefatos da metodolgia ágil do Srum, são informações utilizadas pelo time scrum e o cliente para detalhar/especificar o produto que está sendo desenvolvido. A afirmação anterior está correta?
 
 a - Verdadeiro (resposta correta)
-b - falso 
+b - Falso 
 
 3 Cada fase do projeto tem um determinado prazo a ser cumpruido, e este tempo estipulado pode sofrer variações. É correto afirmar que esta variação pode ocorrer entre duas e três semanas?
 
 a - Verdadeiro
-b - falso (resposta correta)
+b - Falso (resposta correta)
