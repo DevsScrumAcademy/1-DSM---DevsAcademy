@@ -17,7 +17,7 @@
         <td>01</td>
         <td>10/09/24</td>
         <td>04/10/24</td>
-        <td a= href="sprint">🟨 em andamento</td>
+        <td a href="sprint">🟨 em andamento</td>
     </tr>
     <tr>
         <td>02</td>
