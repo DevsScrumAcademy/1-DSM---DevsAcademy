@@ -7,15 +7,15 @@ B- Falso
 
 2 Analise as afirmativas a seguir em (V) Verdadeiro ou (F) Falso.
 
-a- Scrum Master:O Scrum Master é o líder do processo, responsável por ajudar a equipe a seguir os princípios e as práticas da metodologia (V)
-b- Backlog do produto e backlog da Sprint:O backlog do produto e o backlog da Sprint descrevem o trabalho a ser desenvolvido, respectivamente, para o produto e para a Sprint. (V)
-c- Incremento: O incremento é o produto final a ser entregue ao final do projeto.(F)
-d- O ciclo do SCRUM segue a seguinte ordem: Sprint Planning, Daily Scrum, Sprint Review e Sprint Retrospective (V)
+I- Scrum Master:O Scrum Master é o líder do processo, responsável por ajudar a equipe a seguir os princípios e as práticas da metodologia (V)
+II- Backlog do produto e backlog da Sprint:O backlog do produto e o backlog da Sprint descrevem o trabalho a ser desenvolvido, respectivamente, para o produto e para a Sprint. (V)
+III- Incremento: O incremento é o produto final a ser entregue ao final do projeto.(F)
+IV- O ciclo do SCRUM segue a seguinte ordem: Sprint Planning, Daily Scrum, Sprint Review e Sprint Retrospective (V)
 
-a- VFVF
-b- VVFV(correto)
-c- FFVF
-d- VFFV
+A- VFVF
+B- VVFV(correto)
+C- FFVF
+D- VFFV
 
 3- A principal característica do SCRUM séria por não seguir nenhuma ordem específica nem requisitos específicos. A equipe fica livre para decidir qual será o melhor modo de iniciar o projeto, e não há entregas parciais do produto, apenas o produto final?
 
@@ -32,31 +32,32 @@ B-Verdadeiro(correto)
 
 2- Marque (V) para Verdadeito ou (F) Para falso.
 
-a- Dentre as atividades que o SCRUM master deve executar inclui definir as histórias de usuário e os critérios de aceitação, garantindo que o produto final atenda às expectativas e gere valor para o cliente. (F)
-b- O Product owner deve, definir as funcionalidades, priorizar os itens, mapear dependências, reportar problemas, garantir recursos, acompanhar funcionalidades, Orientar a equipe, aprovar ou reprovar resultados, elaborar User Storie e Ter visão estratégica. (V)
-c- O SCRUM master deve fazer reuniões de planejamento,fazer Revisões do sprint; Administrar o quadro; ter Conversas individuais com cada membro do DEV SCRUM, garantir que cada membro seja capaz de executar suas tarefas e garantir materiais que faça isso possível. (V)
-d- As atividades da Equipe de desenvolvimento incluem, Execução da Sprint; Inspeção diária e adaptação; Preparação do Backlog do produto; Planejamento da sprint; Adaptação do produto e processo. (V)
+I- Dentre as atividades que o SCRUM master deve executar inclui definir as histórias de usuário e os critérios de aceitação, garantindo que o produto final atenda às expectativas e gere valor para o cliente. (F)
+II- O Product owner deve, definir as funcionalidades, priorizar os itens, mapear dependências, reportar problemas, garantir recursos, acompanhar funcionalidades, Orientar a equipe, aprovar ou reprovar resultados, elaborar User Storie e Ter visão estratégica. (V)
+III- O SCRUM master deve fazer reuniões de planejamento,fazer Revisões do sprint; Administrar o quadro; ter Conversas individuais com cada membro do DEV SCRUM, garantir que cada membro seja capaz de executar suas tarefas e garantir materiais que faça isso possível. (V)
+IV- As atividades da Equipe de desenvolvimento incluem, Execução da Sprint; Inspeção diária e adaptação; Preparação do Backlog do produto; Planejamento da sprint; Adaptação do produto e processo. (V)
 
-a- FVFV
-b- VVFF
-c- FVVF
-d- FVVV (Correta)
+A- FVFV
+B- VVFF
+C- FVVF
+D- FVVV (Correta)
 
 3- Marque (V) para Verdadeito ou (F) Para falso.
 
-a- Em um projeto baseado na metodologia SCRUM não poderá haver mais do que um SCRUM Master e também não mais do que um P.O (Product Owner).(V)
-b- Os SCRUM DEVs são um nível hierárquico abaixo do SCRUM Master e do Product Owner.(F)
-c- Na metodologia SCRUM todos os membros da equipe são iguais em nível hierárquico, apenas desenvolvem funções diferentes dentro do projeto.(V)
-d- Em um projeto SCRUM pode haver mais de um SCRUM Master e mais do que um P.O (Product Owner). (F)
+I- Em um projeto baseado na metodologia SCRUM não poderá haver mais do que um SCRUM Master e também não mais do que um P.O (Product Owner).(V)
+II- Os SCRUM DEVs são um nível hierárquico abaixo do SCRUM Master e do Product Owner.(F)
+III- Na metodologia SCRUM todos os membros da equipe são iguais em nível hierárquico, apenas desenvolvem funções diferentes dentro do projeto.(V)
+IV- Em um projeto SCRUM pode haver mais de um SCRUM Master e mais do que um P.O (Product Owner). (F)
 
-a- VFVV
-b- VFVF (Correta)
-c- FFVV
-d- VFFV
+A- VFVV
+B- VFVF (Correta)
+C- FFVV
+D- VFFV
 
 Questões Módulo 3
 
 1 - Segundo módulo 3 do Cursao analise as afirmativas a seguir:
+
 I - Sprint é o conceito principal do método Scrum
 II - Sprints contém orientações e conjutos de requisitos básicos à serem implementados
 III - Na Sprint Planning é feita a reunião com cliente onde é realizado teste do produto
@@ -74,6 +75,7 @@ A- Verdadeira (correta)
 B- Falsa
 
 3- Do que se trata a Sprint Review?
+
 I- Reunião que ocorre ao final de cada Sprint.
 II- Retrospectiva do projeto
 III- Entraga do produto ao cliente onde é avaliado se está funciona
@@ -88,20 +90,21 @@ D-VFFV (correta)
 Questões Módulo 4
 
 1 É correto afirmar que os seguintes itens são considerados artefatos do Scrum?
- *SPRINT;
- *BACKLOG DO PRODUTO;
- *BACKLOG DA SPRINT;
- *GRÁFICO DO BRUNDOWN;
 
-a - Verdadeiro
-b - Falso (resposta correta)
+ -SPRINT;
+ -BACKLOG DO PRODUTO;
+ -BACKLOG DA SPRINT;
+ -GRÁFICO DO BRUNDOWN;
+
+A - Verdadeiro
+B - Falso (resposta correta)
 
 2 Os artefatos da metodolgia ágil do Srum, são informações utilizadas pelo time scrum e o cliente para detalhar/especificar o produto que está sendo desenvolvido. A afirmação anterior está correta?
 
-a - Verdadeiro (resposta correta)
-b - Falso 
+A - Verdadeiro (resposta correta)
+B - Falso 
 
 3 Cada fase do projeto tem um determinado prazo a ser cumpruido, e este tempo estipulado pode sofrer variações. É correto afirmar que esta variação pode ocorrer entre duas e três semanas?
 
-a - Verdadeiro
-b - Falso (resposta correta)
+A - Verdadeiro
+B - Falso (resposta correta)
