@@ -10,7 +10,7 @@
     <tr>
         <th>Sprints</th>
         <th>ínicio</th>
-        <th>Entrga</th>
+        <th>Entrega</th>
         <th>Status</th>
     </tr>
     <tr>
