@@ -5,38 +5,7 @@
 
 
 
-<h2>SPRINTS</h2>
-<table>
-    <tr>
-        <th>Sprints</th>
-        <th>ínicio</th>
-        <th>Entrega</th>
-        <th>Status</th>
-    </tr>
-    <tr>
-        <td>01</td>
-        <td>10/09/24</td>
-        <td>04/10/24</td>
-        <td>🟨 em andamento</td>
-    </tr>
-    <tr>
-        <td>02</td>
-        <td>07/10/24</td>
-        <td>01/11/24</td>
-        <td>🟥 não iniciado</td>
-    </tr>
-    <tr>
-        <td>03</td>
-        <td>04/11/24</td>
-        <td>22/11/24</td>
-        <td>🟥 não iniciado</td>
-    </tr>
-    </tr>
-</table>
-
-
-# PRODUCT BACKLOG 
-
+# PRODUCT BACKLOG: 
 
 <h2>PRODUCT BACKLOG</h2>
 <table>
@@ -87,15 +56,87 @@
     </tr>
 </table>
 
+# REQUISITOS NÃO FUNCIONAIS: 
 
+<h2>Requisitos Não Funcionais:</h2>
+<table>
+    <tr>
+        <th>REQUISITO NÃO FUNCIONAL</th>
+        <th>DESCRIÇÃO</th>
+    </tr>
+    <tr>
+        <td>RNF.01</td>
+        <td>Os conteúdos devem ser distribuídos em páginas atendendo aos princípios de arquitetura de informação; </td>
+    </tr>
+    <tr>
+        <td>RNF.02</td>
+        <td>As páginas devem ser organizadas em uma sequência lógica para o aprendizado do Scrum com um mecanismo para o usuário navegar para a próxima página e página anterior; </td>
+    </tr>
+    <tr>
+        <td>RNF.03</td>
+        <td>O curso deve cobrir os conhecimentos necessários para o aprendizado do Scrum;</td>
+    </tr>
+    <tr>
+        <td>RNF.04</td>
+        <td>O curso deve seguir uma sequência lógica necessária para o aprendizado do Scrum; </td>
+    </tr>
+    <tr>
+        <td>RNF.05</td>
+        <td>As questões devem ser compatíveis com o conteúdo apresentado no tópico; </td>
+    </tr>
+    <tr>
+        <td>RNF.06</td>
+        <td>O visual deve ser responsivo.</td>
+    </tr>
+    </tr>
+</table>
 
+# USER STORIES: 
 
-
-
-
-
-
-
+<h2>USER STORIES</h2>
+<table>
+    <tr>
+        <th>REQUISITO NÃO FUNCIONAL</th>
+        <th>DESCRIÇÃO</th>
+    </tr>
+    <tr>
+        <td>RF.01 e RNF.02</td>
+        <td>Como usuário gostaria de navegar por um menu consistente que me levasse aonde eu clicasse e todas as páginas tivesse um caminho de volta para esse menu;</td>
+    </tr>
+    <tr>
+        <td>RF.02</td>
+        <td>Sendo usuário, gostaria de me cadastrar no site com nome, e-mail e senha para ser identificado no site, e salvar meu progresso no curso;</td>
+    </tr>
+    <tr>
+        <td>RNF.03</td>
+        <td>E, claro, gostaria de mais tarde poder usar o e-mail e senha para entrar na minha conta quando retornar ao site;</td>
+    </tr>
+    <tr>
+        <td>RF.04 e RNF.05</td>
+        <td>O site deve possuir questões para testar meu conhecimento no curso a fim de avaliar meu entendimento de scrum, na pagina relevante as questões;</td>
+    </tr>
+    <tr>
+        <td>RF.05 e RF.06</td>
+        <td>A pagina deve ser acessível a todos, mas somente mostrar as questões, e meu progresso, quando estiver logado no site;</td>
+    </tr>
+    <tr>
+        <td>RF.07</td>
+        <td>Á fim de simplificar o processo de avaliação, seria conveniente possuir a capacidade de tentar as questões novamente até acertar todas elas;</td>
+    </tr>
+     <tr>
+        <td>RF.08</td>
+        <td>Como o site só mostra as questões se eu estiver logado, então faz sentido ele não mostrar questões se eu já tiver sido aprovado em um tópico;</td>
+    </tr>
+     <tr>
+        <td>RF.09</td>
+        <td>Gostaria de como usuário do site poder ter algum comprovante do conhecimento adquirido através do curso, um certificado, quando for aprovado em todos os tópicos;</td>
+    </tr>
+     <tr>
+        <td>RF.10</td>
+        <td>Conforme o curso evoluir, a possibilidade de inserir novas questões para serem adicionadas ao curso via banco de dados seria bem útil;</td>
+    </tr>
+    </tr>
+</table>
 
 
 
