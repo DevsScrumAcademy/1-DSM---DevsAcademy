@@ -35,25 +35,70 @@
 </table>
 
 
+# PRODUCT BACKLOG 
 
-<h2>Andamento</h2>
 
+<h2>PRODUCT BACKLOG</h2>
 <table>
     <tr>
-        <th>Sprint</th>
-        <th>Previsão de Entrega</th>
-        <th>Status</th>
-        <th>Backlog das Sprints</th>
-        <th>Retrospectiva das Sprints</th>
+        <th>REQUISITO FUNCIONAL</th>
+        <th>DESCRIÇÃO</th>
     </tr>
     <tr>
-        <td>1</td>
-        <td>04/10/2024</td>
-        <td>Trabalhando</td>
-        <td>-</td>
-        <td>-</td>
+        <td>RF.01</td>
+        <td>As páginas devem possuir um mecanismo de navegação comum (menu de navegação) que, ao ser clicado, remete o usuário à seção correspondente;</td>
+    </tr>
+    <tr>
+        <td>RF.02</td>
+        <td>O usuário deve ser capaz de se auto cadastrar, informando seu nome completo, e-mail e senha;</td>
+    </tr>
+    <tr>
+        <td>RF.03</td>
+        <td>O usuário deve ser capaz de efetuar autenticação utilizando e-mail do cadastro e senha;</td>
+    </tr>
+    <tr>
+        <td>RF.04</td>
+        <td>O sistema deve manter um cadastro de questões, com alternativas verdadeira ou falsa, referentes aos tópicos apresentados nas páginas do portal; </td>
+    </tr>
+    <tr>
+        <td>RF.05</td>
+        <td>Aos usuários logados, o sistema deve exibir 3 questões para cada tópico. As questões devem contemplar o tema abordado no tópico; </td>
+    </tr>
+    <tr>
+        <td>RF.06</td>
+        <td>O usuário não logado pode acessar o conteúdo das páginas (tópicos) do curso, mas não pode visualizar as questões;</td>
+    </tr>
+    <tr>
+        <td>RF.07</td>
+        <td>O usuário pode tentar responder as questões quantas vezes ele quiser até obter êxito; </td>
+    </tr>
+    <tr>
+        <td>RF.08</td>
+        <td>O sistema deve exibir as questões somente nos tópicos que o usuário não tenha sido aprovado. Para ser considerado aprovado no tópico é necessário acertar pelo menos 2 questões; </td>
+    </tr>
+    <tr>
+        <td>RF.09</td>
+        <td>O sistema deve ser capaz de emitir o certificado de conclusão para os usuários que foram aprovados em todos os tópicos;</td>
+    </tr>
+    <tr>
+        <td>RF.10</td>
+        <td>As questões devem ser cadastradas pelo administrador diretamente no SGBD PostgreSQL. </td>
+    </tr>
     </tr>
 </table>
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 <h2>Equipe</h2>
 
