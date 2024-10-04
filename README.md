@@ -7,7 +7,7 @@
 
 # 👩‍💻 PRODUCT BACKLOG: 
 
-<h2>PRODUCT BACKLOG</h2>
+<h2>REQUISITOS FUNCIONAIS</h2>
 <table>
     <tr>
         <th>REQUISITO FUNCIONAL</th>
