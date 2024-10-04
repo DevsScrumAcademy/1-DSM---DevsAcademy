@@ -5,7 +5,7 @@
 
 
 
-# PRODUCT BACKLOG: 
+# 👩‍💻 PRODUCT BACKLOG: 
 
 <h2>PRODUCT BACKLOG</h2>
 <table>
@@ -56,7 +56,7 @@
     </tr>
 </table>
 
-# REQUISITOS NÃO FUNCIONAIS: 
+# 👩‍💻 REQUISITOS NÃO FUNCIONAIS: 
 
 <h2>Requisitos Não Funcionais:</h2>
 <table>
@@ -91,7 +91,7 @@
     </tr>
 </table>
 
-# USER STORIES: 
+# 📚 USER STORIES: 
 
 <h2>USER STORIES</h2>
 <table>
@@ -195,3 +195,45 @@
         <td><a href=https://github.com/Shynj0><img src="Images/github-logo.png" style="height:20px; width:20px;"></a></td>
     </tr>
 </table>
+
+
+# SPRINT 1 
+
+(texto)
+
+
+
+
+º SPRINT BACKLOG:
+
+
+
+<h2>Requisitos Não Funcionais:</h2>
+<table>
+    <tr>
+        <th>REQUISITO DA SPRINT</th>
+        <th>RESPONSAVEL</th>
+    </tr>
+    <tr>
+        <td>Produzir as perguntas para o usuario</td>
+        <td>Aline, Anderson, Isac</td>
+    </tr>
+    <tr>
+        <td>Produzir a parte visual do site</td>
+        <td>João e Rafael</td>
+    </tr>
+    <tr>
+        <td>Conteudo de cada modulo</td>
+        <td>Aline, Anderson, Isac</td>
+    </tr>
+    <tr>
+        <td>Cada pagina deve iteragir entre si/td>
+        <td>Gustavo e Arthur</td>
+    </tr>
+    </tr>
+</table>
+
+
+
+
+
