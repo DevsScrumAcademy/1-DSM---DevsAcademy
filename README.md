@@ -203,11 +203,8 @@ Na primeira sprint, nosso principal objetivo foi criar a parte visual do site ut
 
 
 
-º SPRINT BACKLOG:
 
-
-
-<h2>Requisitos Não Funcionais:</h2>
+<h2>SPRINT BACKLOG</h2>
 <table>
     <tr>
         <th>REQUISITO DA SPRINT</th>
@@ -232,6 +229,11 @@ Na primeira sprint, nosso principal objetivo foi criar a parte visual do site ut
     </tr>
 </table>
 
+# BURNDOWN:
+
+
+
+![Anotação 2024-10-03 221449](https://github.com/user-attachments/assets/d46c0520-2059-42d3-b134-3fe9f58cb997)
 
 
 
