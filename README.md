@@ -199,8 +199,7 @@
 
 # SPRINT 1 
 
-(texto)
-
+Na primeira sprint, nosso principal objetivo foi criar a parte visual do site utilizando a ferramenta Figma. Para alcançar esse objetivo, dividimos o grupo em duas equipes: uma focada na criação da página visual e outra no desenvolvimento do conteúdo dos módulos do curso e na organização da documentação no Trello e GitHub. O Scrum Master monitorou periodicamente o gráfico de burndown e, durante as reuniões diárias, verificou se alguma tarefa estava fora do prazo.
 
 
 
@@ -227,7 +226,7 @@
         <td>Aline, Anderson, Isac</td>
     </tr>
     <tr>
-        <td>Cada pagina deve iteragir entre si</td>
+        <td>Cada página deve interagir entre si.</td>
         <td>Gustavo e Arthur</td>
     </tr>
     </tr>
