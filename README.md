@@ -235,7 +235,7 @@ Na primeira sprint, nosso principal objetivo foi criar a parte visual do site ut
 
 ![Anotação 2024-10-03 221449](https://github.com/user-attachments/assets/d46c0520-2059-42d3-b134-3fe9f58cb997)
 
-# sprint review
+# SPRINT REVIEW:
 
 Nessa sprint a gente teve como principal dificuldade a parte das soft skills como a comunicação e o trabalho em equipe além disso, entender e se apropriar do metodo scrum.
 para a proxima sprint vamos buscar melhorar os nossos defeitos e melhorar como equipe e time. 
