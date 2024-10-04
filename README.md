@@ -227,7 +227,7 @@
         <td>Aline, Anderson, Isac</td>
     </tr>
     <tr>
-        <td>Cada pagina deve iteragir entre si/td>
+        <td>Cada pagina deve iteragir entre si</td>
         <td>Gustavo e Arthur</td>
     </tr>
     </tr>
