@@ -1,27 +1,19 @@
 Questões Módulo 1
 
-1 De acordo com a Metodologia SCRUM ela séria uma Gestão ágil, que ajuda as equipes a trabalharem em conjunto e atingir o objetivo da entrega do produto?
+1- De acordo com a Metodologia SCRUM ela séria uma Gestão ágil, que ajuda as equipes a trabalharem em conjunto e atingir o objetivo da entrega do produto?
 
 A- Verdadeiro(correto)
 B- Falso
 
-2 Analise as afirmativas a seguir em (V) Verdadeiro ou (F) Falso.
+2- O objetivo principal da metodologia SCRUM é a entrega rápida do produto, independente de sua qualidade. 
 
-I- Scrum Master:O Scrum Master é o líder do processo, responsável por ajudar a equipe a seguir os princípios e as práticas da metodologia (V)
-II- Backlog do produto e backlog da Sprint:O backlog do produto e o backlog da Sprint descrevem o trabalho a ser desenvolvido, respectivamente, para o produto e para a Sprint. (V)
-III- Incremento: O incremento é o produto final a ser entregue ao final do projeto.(F)
-IV- O ciclo do SCRUM segue a seguinte ordem: Sprint Planning, Daily Scrum, Sprint Review e Sprint Retrospective (V)
-
-A- VFVF
-B- VVFV(correto)
-C- FFVF
-D- VFFV
+A- Verdadeiro
+B- Falso(correto)
 
 3- A principal característica do SCRUM séria por não seguir nenhuma ordem específica nem requisitos específicos. A equipe fica livre para decidir qual será o melhor modo de iniciar o projeto, e não há entregas parciais do produto, apenas o produto final?
 
 A- Falso(correto)
 B- Verdadeiro
-
 
 Módulo 2
 
@@ -30,66 +22,38 @@ Módulo 2
 A- Falso
 B-Verdadeiro(correto)
 
-2- Marque (V) para Verdadeito ou (F) Para falso.
+2- O Scrum Master é responsável por gerenciar a equipe de desenvolvimento e definir as tarefas diárias.
 
-I- Dentre as atividades que o SCRUM master deve executar inclui definir as histórias de usuário e os critérios de aceitação, garantindo que o produto final atenda às expectativas e gere valor para o cliente. (F)
-II- O Product owner deve, definir as funcionalidades, priorizar os itens, mapear dependências, reportar problemas, garantir recursos, acompanhar funcionalidades, Orientar a equipe, aprovar ou reprovar resultados, elaborar User Storie e Ter visão estratégica. (V)
-III- O SCRUM master deve fazer reuniões de planejamento,fazer Revisões do sprint; Administrar o quadro; ter Conversas individuais com cada membro do DEV SCRUM, garantir que cada membro seja capaz de executar suas tarefas e garantir materiais que faça isso possível. (V)
-IV- As atividades da Equipe de desenvolvimento incluem, Execução da Sprint; Inspeção diária e adaptação; Preparação do Backlog do produto; Planejamento da sprint; Adaptação do produto e processo. (V)
+A- Verdadeiro
+B- Falso(correto)
 
-A- FVFV
-B- VVFF
-C- FVVF
-D- FVVV (Correta)
+3- A equipe de desenvolvimento deve ser multifuncional, possuindo todas as habilidades necessárias para entregar um incremento de produto.
 
-3- Marque (V) para Verdadeito ou (F) Para falso.
-
-I- Em um projeto baseado na metodologia SCRUM não poderá haver mais do que um SCRUM Master e também não mais do que um P.O (Product Owner).(V)
-II- Os SCRUM DEVs são um nível hierárquico abaixo do SCRUM Master e do Product Owner.(F)
-III- Na metodologia SCRUM todos os membros da equipe são iguais em nível hierárquico, apenas desenvolvem funções diferentes dentro do projeto.(V)
-IV- Em um projeto SCRUM pode haver mais de um SCRUM Master e mais do que um P.O (Product Owner). (F)
-
-A- VFVV
-B- VFVF (Correta)
-C- FFVV
-D- VFFV
+A- Verdadeiro(correto)
+B- Falso
 
 Questões Módulo 3
 
-1 - Segundo módulo 3 do Cursao analise as afirmativas a seguir:
+1- A Sprint Planning é a reunião onde a equipe define o que será realizado na próxima Sprint.
 
-I - Sprint é o conceito principal do método Scrum
-II - Sprints contém orientações e conjutos de requisitos básicos à serem implementados
-III - Na Sprint Planning é feita a reunião com cliente onde é realizado teste do produto
-IV- Daily Scrum é uma reunião diária onde são avaliados o progressos e dificuldades das atividades
+A- Verdadeiro(correto)
+B- Falso
 
-A- VFVV
-B- FFVV
-C- VVFV (correta)
-D- VFVV
+2- O Daily Scrum deve durar, no máximo, 30 minutos e é realizado apenas para atualizar o Scrum Master sobre o progresso da equipe.
 
-2- Sprint Retrospective trata-se de uma reunião realizada após o Sprint Review onde a equipe reflete  sobre a Sprint que foi concluída. Neste eventpo são identificados pontos positivos e negativos da Sprinr.
-Esta afimação é:
+A- Verdadeira
+B- Falsa(correto)
 
-A- Verdadeira (correta)
-B- Falsa
+3- As Sprints devem ter uma duração fixa de duas semanas e não podem ser alteradas.
 
-3- Do que se trata a Sprint Review?
+A-Verdadeiro
+B-Falso(correto)
 
-I- Reunião que ocorre ao final de cada Sprint.
-II- Retrospectiva do projeto
-III- Entraga do produto ao cliente onde é avaliado se está funciona
-IV- Reunião onde é discutido incrementos de produtos desenvolvidos, funcionalidades e melhorias realizadas
-
-A-VFFF
-B-VVVF
-C-VVFF
-D-VFFV (correta)
 
 
 Questões Módulo 4
 
-1 É correto afirmar que os seguintes itens são considerados artefatos do Scrum?
+1- É correto afirmar que os seguintes itens são considerados artefatos do Scrum?
 
  -SPRINT;
  -BACKLOG DO PRODUTO;
@@ -99,12 +63,12 @@ Questões Módulo 4
 A - Verdadeiro
 B - Falso (resposta correta)
 
-2 Os artefatos da metodolgia ágil do Srum, são informações utilizadas pelo time scrum e o cliente para detalhar/especificar o produto que está sendo desenvolvido. A afirmação anterior está correta?
+2- Os artefatos da metodolgia ágil do Srum, são informações utilizadas pelo time scrum e o cliente para detalhar/especificar o produto que está sendo desenvolvido. A afirmação anterior está correta?
 
 A - Verdadeiro (resposta correta)
 B - Falso 
 
-3 Cada fase do projeto tem um determinado prazo a ser cumpruido, e este tempo estipulado pode sofrer variações. É correto afirmar que esta variação pode ocorrer entre duas e três semanas?
+3- Cada fase do projeto tem um determinado prazo a ser cumpruido, e este tempo estipulado pode sofrer variações. É correto afirmar que esta variação pode ocorrer entre duas e três semanas?
 
 A - Verdadeiro
 B - Falso (resposta correta)
