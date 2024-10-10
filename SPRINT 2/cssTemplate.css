@@ -1,0 +1,37 @@
+#um {
+    position: absolute;
+    width: 1150px;
+    height: 650px;
+    display: flex;
+    align-content: center;
+    justify-content: space-around;
+   
+    margin-top: 30%;
+    margin-bottom: 30%;
+    margin-right: 5%;
+    margin-left: 30%;
+    background: #A7D4FF;
+     
+    border: 1px solid #000000;
+    border-radius: 10px;
+     
+    }
+     
+    #dois {
+        background-color:#A7D4FF;
+        margin-top: 67%;
+        margin-bottom: 30%;
+        margin-right: 30%;
+        margin-left: 30%;
+    }
+ 
+    #tres {
+        background-color:#A7D4FF;
+        margin-top: 67%;
+        margin-bottom: 30%;
+        margin-right: 30%;
+        margin-left: 30%;
+       
+    }
+
+   
