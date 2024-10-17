@@ -210,26 +210,31 @@ Na primeira sprint, nosso principal objetivo foi criar a parte visual do site ut
         <th>REFERENCIA</th>
         <th>REQUISITO DA SPRINT</th>
         <th>RESPONSAVEL</th>
+        <th>CONCLUÍDA</th>
     </tr>
     <tr>
         <td>RNF.05</td>
         <td>Produzir as perguntas para o usuario</td>
         <td>Aline, Anderson, Isac</td>
+        <td>✔</td>
     </tr>
     <tr>
         <td>RNF.01 ,RNF.02</td>
         <td>Produzir a parte visual do site</td>
         <td>João e Rafael</td>
+        <td>✔</td>
     </tr>
     <tr>
         <td>RNF.03,RNF.04</td>
         <td>Conteudo de cada modulo</td>
         <td>Aline, Anderson, Isac</td>
+        <td>✔</td>
     </tr>
     <tr>
         <td>RF.01</td>
         <td>Cada página deve interagir entre si.</td>
         <td>Gustavo e Arthur</td>
+        <td>✔</td>
     </tr>
     </tr>
 </table>
