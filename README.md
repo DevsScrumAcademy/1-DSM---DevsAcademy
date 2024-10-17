@@ -250,3 +250,6 @@ Na primeira sprint, nosso principal objetivo foi criar a parte visual do site ut
 Nessa sprint a gente teve algumas dificuldades como um grupo, por exemplo, exercer a comunicação entre os integrantes, pois não tinha tanta intimidade com algumas pessoas, e aprendemos nessa sprint que a comunicação e o feedback ele deve ser essencial principalmente para falar a sua opinião sobre o produto que estamos trabalhando e como podemos melhorar. Tivemos dificuldade em praticar o método scrum, mas depois que a gente parou para conversar, vimos o que estava errado e buscamos melhorar isso para a próxima sprint, praticando o processo e priorizando as tarefas que devem ser feitas. 
 
 
+# SPRINT 2 
+
+Nessa sprint focamos em transformar aquilo que foi apresentado no modelo para o cliente em código, nos trabalhamos com a parte de estilização usando o CSS e o HTML para colocar o conteúdo de cada página fazendo toda a parte do código e organizando para passar para cada membro do time para iniciar suas tarefas. Além disso, buscamos adiantar algumas atividades para não ficarmos sobrecarregados para aproxima sprint. Sobre tudo, respeitando e priorizando as atividades que a gente levantou para essa sprint.
