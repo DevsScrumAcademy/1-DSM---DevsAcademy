@@ -207,22 +207,27 @@ Na primeira sprint, nosso principal objetivo foi criar a parte visual do site ut
 <h2>SPRINT BACKLOG</h2>
 <table>
     <tr>
+        <th>REFERENCIA</th>
         <th>REQUISITO DA SPRINT</th>
         <th>RESPONSAVEL</th>
     </tr>
     <tr>
+        <td>RNF.05</td>
         <td>Produzir as perguntas para o usuario</td>
         <td>Aline, Anderson, Isac</td>
     </tr>
     <tr>
+        <td>RNF.01 ,RNF.02</td>
         <td>Produzir a parte visual do site</td>
         <td>João e Rafael</td>
     </tr>
     <tr>
+        <td>RNF.03,RNF.04</td>
         <td>Conteudo de cada modulo</td>
         <td>Aline, Anderson, Isac</td>
     </tr>
     <tr>
+        <td>RF.01</td>
         <td>Cada página deve interagir entre si.</td>
         <td>Gustavo e Arthur</td>
     </tr>
@@ -235,9 +240,8 @@ Na primeira sprint, nosso principal objetivo foi criar a parte visual do site ut
 
 ![Anotação 2024-10-03 221449](https://github.com/user-attachments/assets/d46c0520-2059-42d3-b134-3fe9f58cb997)
 
-# SPRINT REVIEW:
+# SPRINT RETROSPECTIVE:
 
-Nessa sprint a gente teve como principal dificuldade a parte das soft skills como a comunicação e o trabalho em equipe além disso, entender e se apropriar do metodo scrum.
-para a proxima sprint vamos buscar melhorar os nossos defeitos e melhorar como equipe e time. 
+Nessa sprint a gente teve algumas dificuldades como um grupo, por exemplo, exercer a comunicação entre os integrantes, pois não tinha tanta intimidade com algumas pessoas, e aprendemos nessa sprint que a comunicação e o feedback ele deve ser essencial principalmente para falar a sua opinião sobre o produto que estamos trabalhando e como podemos melhorar. Tivemos dificuldade em praticar o método scrum, mas depois que a gente parou para conversar, vimos o que estava errado e buscamos melhorar isso para a próxima sprint, praticando o processo e priorizando as tarefas que devem ser feitas. 
 
 
