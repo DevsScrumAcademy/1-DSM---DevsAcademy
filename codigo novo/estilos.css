@@ -1,0 +1,363 @@
+.caixa_de_navegacao { 
+	background-color:rgba(255, 255, 255, 1);
+	width:1440px;
+	height:1024px;
+	position:absolute;
+}
+.caixatitulo { 
+    display: flex;
+	background-color:rgba(166.81249290704727, 212.37603038549423, 255, 1);
+	width:800px;
+	height:140px;
+	position:absolute;
+	left:374px;
+	top:42px;
+	border-top-left-radius:10px;
+	border-top-right-radius:10px;
+	border-bottom-left-radius:10px;
+	border-bottom-right-radius:10px;
+}
+.marca { 
+	width:200px;
+	height:200px;
+	position:absolute;
+	left:374px;
+	top:12px;
+	background-image:url(images/marca.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+.titulo { 
+    display: flex;
+	color:rgba(0, 0, 0, 1);
+	width:566px;
+	height:77px;
+	position:absolute;
+	left:574px;
+	top:73px;
+	font-family:Inter;
+	text-align:left;
+	font-size:64px;
+	letter-spacing:0;
+}
+.caixanavegacao { 
+	background-color:rgba(166.81249290704727, 212.37603038549423, 255, 1);
+	width:200px;
+	height:370px;
+	position:absolute;
+	left:29px;
+	top:416px;
+	border-top-left-radius:10px;
+	border-top-right-radius:10px;
+	border-bottom-left-radius:10px;
+	border-bottom-right-radius:10px;
+	position: fixed;
+}
+.modulo_1 { 
+	color:rgba(0, 0, 0, 1);
+	width:171px;
+	height:50px;
+	position:absolute;
+	left:44px;
+	top:580px;
+	font-family:Inter;
+	text-align:left;
+	font-size:32px;
+	letter-spacing:0;
+	position: fixed;
+}
+.destaque:hover {
+	color: blue;
+} 
+.modulo_2 { 
+	color:rgba(0, 0, 0, 1);
+	width:171px;
+	height:50px;
+	position:absolute;
+	left:44px;
+	top:630px;
+	font-family:Inter;
+	text-align:left;
+	font-size:32px;
+	letter-spacing:0;
+	position: fixed;
+}
+.modulo_3 { 
+	color:rgba(0, 0, 0, 1);
+	width:171px;
+	height:50px;
+	position:absolute;
+	left:43px;
+	top:680px;
+	font-family:Inter;
+	text-align:left;
+	font-size:32px;
+	letter-spacing:0;
+	position: fixed;
+}
+.modulo_4 { 
+	color:rgba(0, 0, 0, 1);
+	width:173px;
+	height:50px;
+	position:absolute;
+	left:43px;
+	top:730px;
+	font-family:Inter;
+	text-align:left;
+	font-size:32px;
+	letter-spacing:0;
+	position: fixed;
+}
+.contatos { 
+	color:rgba(0, 0, 0, 1);
+	width:169px;
+	height:50px;
+	position:absolute;
+	left:44px;
+	top: 930px;
+	font-family:Inter;
+	text-align:left;
+	font-size:32px;
+	letter-spacing:0;
+	position: fixed;
+}
+
+.caixaperfil { 
+	background-color:rgba(166.81249290704727, 212.37603038549423, 255, 1);
+	width:200px;
+	height:200px;
+	position:absolute;
+	left:29px;
+	top:183px;
+	border-top-left-radius:10px;
+	border-top-right-radius:10px;
+	border-bottom-left-radius:10px;
+	border-bottom-right-radius:10px;
+	position: fixed;
+}
+.fotoperfil { 
+	border-radius:500px;
+	width:130px;
+	height:130px;
+	position:absolute;
+	left:61px;
+	top:201px;
+	background-image:url(images/fotoperfil.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+	position: fixed;
+}
+.nome { 
+	color:rgba(0, 0, 0, 1);
+	width:122px;
+	height:24px;
+	position:absolute;
+	left:75px;
+	top:337px;
+	font-family:Inter;
+	text-align:left;
+	font-size:20px;
+	letter-spacing:0;
+	position: fixed;
+}
+.email { 
+	color:rgba(0, 0, 0, 1);
+	width:166px;
+	height:15px;
+	position:absolute;
+	left:55px;
+	top:361px;
+	font-family:Inter;
+	text-align:left;
+	font-size:12px;
+	letter-spacing:0;
+	position: fixed;
+}
+.caixaconteudo { 
+	background-color:rgba(166.81249290704727, 212.37603038549423, 255, 1);
+	width:1150px;
+	height: 650px;
+	position:absolute;
+	left:266px;
+	top:239px;
+	border-top-left-radius:10px;
+	border-top-right-radius:10px;
+	border-bottom-left-radius:10px;
+	border-bottom-right-radius:10px;
+}
+.iniciodocurso { 
+	color:rgba(0, 0, 0, 1);
+	width:1106px;
+	height:624px;
+	position:absolute;
+	left:288px;
+	top:260px;
+	font-family:Inter;
+	text-align:left;
+	font-size:32px;
+	letter-spacing:0;
+	font-size:200%;
+}
+.botaoproximo_ic{
+	width:160px;
+	height:60px;
+	position:absolute;
+	cursor: pointer;
+}
+
+.botaovoltar_ic { 
+	width:160px;
+	height:60px;
+	position:absolute;
+	left:294px;
+	top: 925px;
+	cursor: pointer;
+}
+.introducao { 
+	color:rgba(0, 0, 0, 1);
+	width:1106px;
+	height:624px;
+	position:absolute;
+	top:531px;
+	left: 45px;
+	font-family:Inter;
+	text-align:left;
+	font-size:32px;
+	letter-spacing:0;
+	font-size:200%;
+	position: fixed;
+}
+.introducaocont { 
+	color:rgba(0, 0, 0, 1);
+	width:1106px;
+	height:624px;
+	position:absolute;
+	top:250px;
+	left: 300px;
+	font-family:Inter;
+	text-align:left;
+	font-size:32px;
+	letter-spacing:0;
+	font-size:200%;
+}
+
+.conteudomodulo1_pg1 { 
+	color:rgba(0, 0, 0, 1);
+	position:absolute;
+	left:267px;
+	top: 240px;
+	font-family:Inter;
+	text-align:left;
+	font-size:32px;
+	letter-spacing:0;
+	font-size:220%;
+	border-radius: 10px;
+	background-color: rgb(166.81249290704727, 212.37603038549423, 255, 1);
+	padding: 25px;
+}
+
+.conteudomodulo2_pg1 { 
+	color:rgba(0, 0, 0, 1);
+	width:1106px;
+	height:624px;
+	position:absolute;
+	left:288px;
+	top:254px;
+	font-family:Inter;
+	text-align:left;
+	font-size:32px;
+	letter-spacing:0;
+	font-size:158%;
+}
+
+.inicio_do_curso { 
+	color:rgba(0, 0, 0, 1);
+	width:128px;
+	height:77px;
+	position:absolute;
+	left:44px;
+	top:450px;
+	font-family:Inter;
+	text-align:left;
+	font-size:32px;
+	letter-spacing:0;
+	position: fixed;
+}
+
+.botaoproximomod1{
+	width:160px;
+	height:60px;
+	position:absolute;
+	top: 1180px;
+	cursor: pointer;
+}
+
+.botaovoltarmod1 { 
+	width:160px;
+	height:60px;
+	position:absolute;
+	left:294px;
+	top: 2110px;
+	cursor: pointer;
+}
+
+.botaoproximomod2{
+	width:160px;
+	height:60px;
+	position:absolute;
+	top: 2620px;
+	cursor: pointer;
+}
+
+.botaovoltarmod2 { 
+	width:160px;
+	height:60px;
+	position:absolute;
+	left:294px;
+	top: 3550px;
+	cursor: pointer;
+}
+.botaoproximomod3{
+	width:160px;
+	height:60px;
+	position:absolute;
+	top: 1180px;
+	cursor: pointer;
+}
+
+.botaovoltarmod3 { 
+	width:160px;
+	height:60px;
+	position:absolute;
+	left:294px;
+	top: 2110px;
+	cursor: pointer;
+}
+.botaoproximomod4{
+	width:160px;
+	height:60px;
+	position:absolute;
+	top: 1180px;
+	cursor: pointer;
+}
+
+.botaovoltarmod4 { 
+	width:160px;
+	height:60px;
+	position:absolute;
+	left:294px;
+	top: 2110px;
+	cursor: pointer;
+}
+.selecaonavegacao { 
+	background-color:rgba(217.0000022649765, 217.0000022649765, 217.0000022649765, 0);
+	width:184px;
+	height:52px;
+	position:absolute;
+	left:29px;
+	top:610px;
+	border-top-left-radius:20px;
+	border-top-right-radius:20px;
+	border-bottom-left-radius:20px;
+	border-bottom-right-radius:20px;
+}
