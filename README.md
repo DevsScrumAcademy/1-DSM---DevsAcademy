@@ -253,3 +253,39 @@ Nessa sprint a gente teve algumas dificuldades como um grupo, por exemplo, exerc
 # SPRINT 2 
 
 Nessa sprint focamos em transformar aquilo que foi apresentado no modelo para o cliente em código, nos trabalhamos com a parte de estilização usando o CSS e o HTML para colocar o conteúdo de cada página fazendo toda a parte do código e organizando para passar para cada membro do time para iniciar suas tarefas. Além disso, buscamos adiantar algumas atividades para não ficarmos sobrecarregados para aproxima sprint. Sobre tudo, respeitando e priorizando as atividades que a gente levantou para essa sprint.
+
+
+<h2>SPRINT BACKLOG</h2>
+<table>
+    <tr>
+        <th>REFERENCIA</th>
+        <th>REQUISITO DA SPRINT</th>
+        <th>RESPONSAVEL</th>
+        <th>CONCLUÍDA</th>
+    </tr>
+    <tr>
+        <td>RNF.06</td>
+        <td>Ele deve ser responsivo</td>
+        <td>Anderson, Gustavo</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>RNF.02</td>
+        <td>Pegar todo o conteudo apresentado e passar para o CSS e HTML/Modulo 3 e 4</td>
+        <td>João e Rafael</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>RNF.02</td>
+        <td>Pegar todo o conteudo apresentado e passar para o CSS e HTML/Modulo 1 e 2</td>
+        <td>Anderson, Gustavo</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>RF.02</td>
+        <td>Passar para O CSS e o HTML</td>
+        <td>Filippe</td>
+        <td></td>
+    </tr>
+    </tr>
+</table>
