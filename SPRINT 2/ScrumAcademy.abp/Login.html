@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ScrumAcademy - Login</title>
+    <link href="/CSS/login.css" rel="stylesheet" type="text/css">
+</head>
+<body>
+    <div class="blocoPrincipal">
+        <div class="blocoImagem">
+            <img src="Imagens/SCRUM-logo.png" alt="Logo DevScrum™">
+        </div>
+        <div class="blocoLogin">
+            <form method="post"> <!--post é mais seguro para lidar com logins porque ele manda as informações no corpo do pedido ao inves da url-->
+                <label for="login">E-Mail</label>
+                <input name="login" id="email" type="email"><br>
+                <label for="senha">Senha</label>
+                <input name="senha" id="senha" type="password"><br>
+                <input type="checkbox" id="lembra" name="member">
+                <label for="member">Lembre-se</label><br>
+                <input type="submit" value="Entrar" class="loginBotao">
+            </form>
+        </div>
+    </div>
+</body>
+</html>
