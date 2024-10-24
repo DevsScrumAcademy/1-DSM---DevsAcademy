@@ -1,4 +1,17 @@
+/* Define estilos para mobile */
+@media only screen and (max-width: 768px) {
+}
 
+/* Define estilos para tablets */
+@media only screen and (min-width: 769px) and (max-width: 1024px) {
+  
+}
+
+
+/* Define estilos para desktop com resolu o 1920x1080 */
+@media only screen and (min-width: 1920px) {
+  
+}
 .titulo{
 	background-color: rgb(167,212, 255);
 	width:566px;
