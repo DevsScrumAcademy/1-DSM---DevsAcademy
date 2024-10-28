@@ -152,32 +152,32 @@
     <tr>
         <td>Scrum Master</td>
         <td>Stefan Souza Cruz</td>
-        <td><a href=https://github.com/Stefan0212><img src="Images/github-logo.png" style="height:20px; width:20px;"></a></td>
+        <td><a href=https://github.com/Stefan0212><img src="Imagens/github-logo.png" style="height:20px; width:20px;"></a></td>
     </tr>
     <tr>
         <td>Product Owner</td>
         <td>Filippe Gonçalves Marchezoni</td>
-        <td><a href=https://github.com/FilippeGM><img src="Images/github-logo.png" style="height:20px; width:20px;"></a></td>
+        <td><a href=https://github.com/FilippeGM><img src="Imagens/github-logo.png" style="height:20px; width:20px;"></a></td>
     </tr>
     <tr>
         <td>Developer</td>
         <td>Gustavo Reis</td>
-        <td><a href=https://github.com/GustavoReis-xml><img src="Images/github-logo.png" style="height:20px; width:20px;"></a></td>
+        <td><a href=https://github.com/GustavoReis-xml><img src="Imagens/github-logo.png" style="height:20px; width:20px;"></a></td>
     </tr>
     <tr>
         <td>Developer</td>
         <td>Arthur Augusto Da Silva Cunha</td>
-        <td><a href=https://github.com/ArthurAugusto10><img src="Images/github-logo.png" style="height:20px; width:20px;"></a></td>
+        <td><a href=https://github.com/ArthurAugusto10><img src="Imagens/github-logo.png" style="height:20px; width:20px;"></a></td>
     </tr>
     <tr>
         <td>Developer</td>
         <td>Anderson Fontes</td>
-        <td><a href=https://github.com/Anderson-Fontes><img src="Images/github-logo.png" style="height:20px; width:20px;"></a></td>
+        <td><a href=https://github.com/Anderson-Fontes><img src="Imagens/github-logo.png" style="height:20px; width:20px;"></a></td>
     </tr>
     <tr>
         <td>Developer</td>
         <td>Aline Raquel Camargo</td>
-        <td><a href=https://github.com/AlineRaquelC><img src="Images/github-logo.png" style="height:20px; width:20px;"></a></td>
+        <td><a href=https://github.com/AlineRaquelC><img src="Imagens/github-logo.png" style="height:20px; width:20px;"></a></td>
     </tr>
     <tr>
         <td>Developer</td>
@@ -187,12 +187,12 @@
     <tr>
         <td>Developer</td>
         <td>Rafael Shinji Tomokame</td>
-        <td><a href=https://github.com/RafaelShinjiTomokame><img src="Images/github-logo.png" style="height:20px; width:20px;"></a></td>
+        <td><a href=https://github.com/RafaelShinjiTomokame><img src="Imagens/github-logo.png" style="height:20px; width:20px;"></a></td>
     </tr>
     <tr>
         <td>Developer</td>
         <td>João Pedro</td>
-        <td><a href=https://github.com/Shynj0><img src="Images/github-logo.png" style="height:20px; width:20px;"></a></td>
+        <td><a href=https://github.com/Shynj0><img src="Imagnes/github-logo.png" style="height:20px; width:20px;"></a></td>
     </tr>
 </table>
 
