@@ -182,7 +182,7 @@
     <tr>
         <td>Developer</td>
         <td>Isac Carvalho</td>
-        <td><a href=https://github.com/IsacCarvalho2><img src="Images/github-logo.png" style="height:20px; width:20px;"></a></td>
+        <td><a href=https://github.com/IsacCarvalho2><img src="Imagens/github-logo.png" style="height:20px; width:20px;"></a></td>
     </tr>
     <tr>
         <td>Developer</td>
@@ -192,7 +192,7 @@
     <tr>
         <td>Developer</td>
         <td>João Pedro</td>
-        <td><a href=https://github.com/Shynj0><img src="Imagnes/github-logo.png" style="height:20px; width:20px;"></a></td>
+        <td><a href=https://github.com/Shynj0><img src="Imagens/github-logo.png" style="height:20px; width:20px;"></a></td>
     </tr>
 </table>
 
