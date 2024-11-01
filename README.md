@@ -245,7 +245,7 @@ Na primeira sprint, nosso principal objetivo foi criar a parte visual do site ut
 
 ![Anotação 2024-10-03 221449](https://github.com/user-attachments/assets/d46c0520-2059-42d3-b134-3fe9f58cb997)
 <h2>Sprint 2</h2>
-<img src="Images/Screenshot 2024-11-01 at 18-36-24 Burndown for Trello - free scrum agile burndown time-estimates online web-app for Trello.png">
+<img src="Images/Screenshot 2024-11-01 at 18-44-33 Burndown for Trello - free scrum agile burndown time-estimates online web-app for Trello.png">
 
 # SPRINT RETROSPECTIVE:
 
