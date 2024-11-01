@@ -254,7 +254,7 @@ Nessa sprint a gente teve algumas dificuldades como um grupo, por exemplo, exerc
 
 # SPRINT 2 
 
-Nessa sprint focamos em transformar aquilo que foi apresentado no modelo para o cliente em código, nos trabalhamos com a parte de estilização usando o CSS e o HTML para colocar o conteúdo de cada página fazendo toda a parte do código e organizando para passar para cada membro do time para iniciar suas tarefas. Além disso, buscamos adiantar algumas atividades para não ficarmos sobrecarregados para aproxima sprint. Sobre tudo, respeitando e priorizando as atividades que a gente levantou para essa sprint.
+Nessa sprint focamos em transformar aquilo que foi apresentado no modelo para o cliente em código, nos trabalhamos com a parte de estilização usando o CSS e o HTML para colocar o conteúdo de cada página fazendo toda a parte do código e organizando para passar para cada membro do time para iniciar suas tarefas. Além disso, buscamos adiantar algumas atividades para não ficarmos sobrecarregados para a proxima sprint. Sobre tudo, respeitando e priorizando as atividades que a gente levantou para essa sprint.
 
 
 <h2>SPRINT BACKLOG</h2>
