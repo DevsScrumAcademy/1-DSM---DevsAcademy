@@ -264,28 +264,32 @@ Nessa sprint focamos em transformar aquilo que foi apresentado no modelo para o 
         <th>CONCLUÍDA</th>
     </tr>
     <tr>
-        <td>RNF.06</td>
-        <td>Ele deve ser responsivo</td>
+        <td>RF.05</td>
+        <td>Questionario</td>
         <td>Anderson, Gustavo</td>
-        <td></td>
+        <td>✔</td>
     </tr>
     <tr>
         <td>RNF.02</td>
         <td>Pegar todo o conteudo apresentado e passar para o CSS e HTML/Modulo 3 e 4</td>
         <td>João e Rafael</td>
-        <td></td>
+        <td>✔</td>
     </tr>
     <tr>
         <td>RNF.02</td>
         <td>Pegar todo o conteudo apresentado e passar para o CSS e HTML/Modulo 1 e 2</td>
         <td>Anderson, Gustavo</td>
-        <td></td>
+        <td>✔</td>
     </tr>
     <tr>
         <td>RF.02</td>
         <td>Passar para O CSS e o HTML</td>
         <td>Filippe</td>
-        <td></td>
+        <td>✔</td>
     </tr>
     </tr>
 </table>
+
+# SPRINT RETROSPECTIVE:
+
+Nessa segunda sprint a gente buscou adiantar algumas tarefas que são mais difíceis para algumas pessoas do grupo que tem mais facilidade com certos assuntos e delegar alguns membros para estudar tarefas futuras que a gente vai deixar para a próxima sprint. Percebemos que pecamos em certos pontos do processo como a falta de priorizar as tarefas passadas para cada pessoa, além disso, ficamos sem um membro do grupo que tirou um atestado de licença a maternidade.  A gente decidiu nesse momento que a pessoa está vivendo de não passar as tarefas, pois é necessário focar o seu tempo na maternidade e como um grupo entendemos que é muito importe esse tempo.
