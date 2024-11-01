@@ -247,10 +247,6 @@ Na primeira sprint, nosso principal objetivo foi criar a parte visual do site ut
 <h2>Sprint 2</h2>
 <img src="Images/Screenshot 2024-11-01 at 18-44-33 Burndown for Trello - free scrum agile burndown time-estimates online web-app for Trello.png">
 
-# SPRINT RETROSPECTIVE:
-
-Nessa sprint a gente teve algumas dificuldades como um grupo, por exemplo, exercer a comunicação entre os integrantes, pois não tinha tanta intimidade com algumas pessoas, e aprendemos nessa sprint que a comunicação e o feedback ele deve ser essencial principalmente para falar a sua opinião sobre o produto que estamos trabalhando e como podemos melhorar. Tivemos dificuldade em praticar o método scrum, mas depois que a gente parou para conversar, vimos o que estava errado e buscamos melhorar isso para a próxima sprint, praticando o processo e priorizando as tarefas que devem ser feitas. 
-
 
 # SPRINT 2 
 
