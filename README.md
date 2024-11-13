@@ -305,7 +305,7 @@ Nessa segunda sprint a gente buscou adiantar algumas tarefas que são mais difí
         <th>CONCLUÍDA</th>
     </tr>
     <tr>
-        <td>RF.01</td>
+        <td>RF.01,RNF.01,RNF.02</td>
         <td>Questionario</td>
         <td>Anderson, Gustavo</td>
         <td>✔</td>
@@ -361,6 +361,30 @@ Nessa segunda sprint a gente buscou adiantar algumas tarefas que são mais difí
     <tr>
         <td>RF.10</td>
         <td>Passar para O CSS e o HTML</td>
+        <td>Filippe</td>
+        <td>✔</td>
+    </tr>
+     <tr>
+        <td>RNF.03</td>
+        <td>aaaas</td>
+        <td>Filippe</td>
+        <td>✔</td>
+    </tr>
+    <tr>
+        <td>RNF.04</td>
+        <td>aaaaa</td>
+        <td>Filippe</td>
+        <td>✔</td>
+    </tr>
+    <tr>
+        <td>RNF.05</td>
+        <td>aaaaa</td>
+        <td>Filippe</td>
+        <td>✔</td>
+    </tr>
+    <tr>
+        <td>RNF.06</td>
+        <td>aaaaa</td>
         <td>Filippe</td>
         <td>✔</td>
     </tr>
