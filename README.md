@@ -305,7 +305,7 @@ Nessa segunda sprint a gente buscou adiantar algumas tarefas que são mais difí
         <th>CONCLUÍDA</th>
     </tr>
     <tr>
-        <td>RF.01,RNF.01,RNF.02</td>
+        <td>RF.01,RNF.01</td>
         <td>Questionario</td>
         <td>Anderson, Gustavo</td>
         <td>✔</td>
@@ -388,11 +388,15 @@ Nessa segunda sprint a gente buscou adiantar algumas tarefas que são mais difí
         <td>Filippe</td>
         <td>✔</td>
     </tr>
+    <tr>
+        <td>RNF.02</td>
+        <td>aaaaa</td>
+        <td>Filippe</td>
+        <td>✔</td>
+    </tr>
     </tr>
 </table>
 
 <!--precisa terminar de arrumar-->
-
-
 
 
