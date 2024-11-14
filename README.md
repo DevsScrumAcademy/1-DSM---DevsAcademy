@@ -306,91 +306,91 @@ Nessa segunda sprint a gente buscou adiantar algumas tarefas que são mais difí
     </tr>
     <tr>
         <td>RF.01,RNF.01</td>
-        <td>Questionario</td>
+        <td>As páginas devem possuir um mecanismo de navegação comum (menu de navegação) que, ao ser clicado, remete o usuário à seção correspondente;</td>
         <td>Anderson, Gustavo</td>
         <td>✔</td>
     </tr>
     <tr>
         <td>RF.02</td>
-        <td>Pegar todo o conteudo apresentado e passar para o CSS e HTML/Modulo 3 e 4</td>
+        <td>O usuário deve ser capaz de se auto cadastrar, informando seu nome completo, e-mail e senha;</td>
         <td>João e Rafael</td>
         <td>✔</td>
     </tr>
     <tr>
         <td>RF.03</td>
-        <td>Pegar todo o conteudo apresentado e passar para o CSS e HTML/Modulo 1 e 2</td>
+        <td>O usuário deve ser capaz de efetuar autenticação utilizando e-mail do cadastro e senha;</td>
         <td>Anderson, Gustavo</td>
         <td>✔</td>
     </tr>
     <tr>
         <td>RF.04</td>
-        <td>Passar para O CSS e o HTML</td>
+        <td>O sistema deve manter um cadastro de questões, com alternativas verdadeira ou falsa, referentes aos tópicos apresentados nas páginas do portal;</td>
         <td>Filippe</td>
         <td>✔</td>
     </tr>
     <tr>
         <td>RF.05</td>
-        <td>Passar para O CSS e o HTML</td>
+        <td>Aos usuários logados, o sistema deve exibir 3 questões para cada tópico. As questões devem contemplar o tema abordado no tópico;</td>
         <td>Filippe</td>
         <td>✔</td>
     </tr>
     <tr>
         <td>RF.06</td>
-        <td>Passar para O CSS e o HTML</td>
+        <td>O usuário não logado pode acessar o conteúdo das páginas (tópicos) do curso, mas não pode visualizar as questões;</td>
         <td>Filippe</td>
         <td>✔</td>
     </tr>
     <tr>
         <td>RF.07</td>
-        <td>Passar para O CSS e o HTML</td>
+        <td>O usuário pode tentar responder as questões quantas vezes ele quiser até obter êxito;</td>
         <td>Filippe</td>
         <td>✔</td>
     </tr>
     <tr>
         <td>RF.08</td>
-        <td>Passar para O CSS e o HTML</td>
+        <td>O sistema deve exibir as questões somente nos tópicos que o usuário não tenha sido aprovado. Para ser considerado aprovado no tópico é necessário acertar pelo menos 2 questões;</td>
         <td>Filippe</td>
         <td>✔</td>
     </tr>
     <tr>
         <td>RF.09</td>
-        <td>Passar para O CSS e o HTML</td>
+        <td>O sistema deve ser capaz de emitir o certificado de conclusão para os usuários que foram aprovados em todos os tópicos;</td>
         <td>Filippe</td>
         <td>✔</td>
     </tr>
     <tr>
         <td>RF.10</td>
-        <td>Passar para O CSS e o HTML</td>
+        <td>As questões devem ser cadastradas pelo administrador diretamente no SGBD PostgreSQL.</td>
         <td>Filippe</td>
         <td>✔</td>
     </tr>
      <tr>
         <td>RNF.03</td>
-        <td>aaaas</td>
+        <td>O curso deve cobrir os conhecimentos necessários para o aprendizado do Scrum;</td>
         <td>Filippe</td>
         <td>✔</td>
     </tr>
     <tr>
         <td>RNF.04</td>
-        <td>aaaaa</td>
+        <td>O curso deve seguir uma sequência lógica necessária para o aprendizado do Scrum;</td>
         <td>Filippe</td>
         <td>✔</td>
     </tr>
     <tr>
         <td>RNF.05</td>
-        <td>aaaaa</td>
+        <td>As questões devem ser compatíveis com o conteúdo apresentado no tópico;</td>
         <td>Filippe</td>
         <td>✔</td>
     </tr>
     <tr>
         <td>RNF.06</td>
-        <td>aaaaa</td>
+        <td>O visual deve ser responsivo.</td>
         <td>Filippe</td>
         <td>✔</td>
     </tr>
     <tr>
         <td>RNF.02</td>
-        <td>aaaaa</td>
+        <td>As páginas devem ser organizadas em uma sequência lógica para o aprendizado do Scrum com um mecanismo para o usuário navegar para a próxima página e página anterior;</td>
         <td>Filippe</td>
         <td>✔</td>
     </tr>
