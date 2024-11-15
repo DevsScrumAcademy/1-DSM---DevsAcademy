@@ -1,0 +1,9 @@
+
+drop table if exists usuario;
+
+create table if not exists usuario (
+    id serial primary key,
+    nome varchar(50) not null,
+    mail varchar(50) not null unique,
+    senha varchar(50) not null
+);
