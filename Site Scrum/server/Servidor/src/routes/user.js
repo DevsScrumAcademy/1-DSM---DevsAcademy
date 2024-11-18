@@ -4,7 +4,7 @@ const { insertUser, loginUser } = require("../controllers/UserController");  // 
 
 
 // Rota para inserir um novo usuário
-router.post('/', insertUser);
-router.post("|", loginUser);
+router.post('/usuario', insertUser);
+router.post("/login", loginUser);
 
 module.exports = router;

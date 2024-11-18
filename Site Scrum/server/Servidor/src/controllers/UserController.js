@@ -33,12 +33,12 @@ async function insertUser(req, res) {
 
 // Função para validar o login
 async function loginUser(req, res) {
-  const { mail, password } = req.body;
+  const { mail, senha } = req.body;
 
   // Recuperar o usuário do banco de dados pelo e-mail
   const query = {
-    text: "SELECT idusuario, nome, mail, senha FROM usuario WHERE mail = $1 AND senha = $2",
-    values: [mail, password],
+    text: "SELECT mail, senha FROM usuario WHERE mail = $1 AND senha = $2",
+    values: [mail, senha],
   };
 
   try {
