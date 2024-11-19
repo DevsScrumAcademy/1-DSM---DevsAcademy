@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Questionário 1</title>
+    <link rel="stylesheet" href="estilos.css">
+</head>
+<body style="background-color:rgb(70,130,180);">
+    <div class=caixa_de_navegacao>
+        <!-- TITULO -->
+        <div  class="titulo">
+          <br>
+        <a>    SCRUM <br> ACADEMY <a><img class="logo" src='img/logo_site.png'></a></a>
+        </div>
+        <!-- PERFIL -->
+        <div class="caixaperfil">
+          <p>      <a><img style="width: 55%; border-radius: 50%;" src="img/semftperfil.PNG"></a></p>
+          <p>Lorem Ipsum</p>
+          <a>LoremIpsum@fatec.sp.gov.br </a>
+          <br>
+        </div>
+        <!-- NAVEGACAO -->
+        <div class="caixanavegacao">
+        <p><a href="inicio_do_curso.html">Inicio </a></p>
+        <p><a href="introducao.html">Introdução</a></p>
+        <p><a href="modulo1_pg1.html">Módulo 1</a></p>
+        <p><a href="modulo2_pg1.html">Módulo 2</a></p>
+        <p><a href="modulo3_pg1.html">Módulo 3</a></p>
+        <p><a href="modulo4_pg1.html">Módulo 4</a></p>
+        </div>
+        <!-- NAVEGACAO QUESTIONARIO-->
+        <div class="caixanavegacao_questionario">
+        <p><a>Questionários</a></p>
+        <p><a>Módulo 1</a></p>
+        <p><a>Módulo 2</a></p>
+        <p><a>Módulo 3</a></p>
+        <p><a>Módulo 4</a></p>
+        <p><a>Certificação</a></p>
+        </div>
+        <!-- CONTEUDO -->
+     <form id="quizForm">
+      <div class="conteudomodulo">
+        <div><br>
+      <h1>Questionário: Módulo 2</h1>
+        <label for="q1">1- É correto afirmar que os seguintes itens são considerados artefatos do Scrum?</label> <br> 
+        <p>-Sprint;</p>
+        <p> -Backlog do produto;</p>
+        <p>-Backlog da sprint;</p>
+        <p>-Gráfico burndown.</p>
+        
+        <p><input type="radio" name="quest1" id="verdadeiro1" value="0">
+        <label for="verdadeiro">Verdadeiro</label></p>
+
+        <p><input type="radio" name="quest1" id="falso1" value="1">
+        <label for="falso">Falso</label></p><!--Correto-->
+        <br>
+      </div>
+
+        <div>
+        <label for="q2">2- Os artefatos da metodolgia ágil do Srum, são informações utilizadas pelo time scrum e o cliente para detalhar/especificar o produto que está sendo desenvolvido. A afirmação anterior está correta?</label>
+        <p><input type="radio" name="quest2" id="verdadeiro2" value="1"><!--Correto-->
+          <label for="verdadeiro">Verdadeiro</label></p>
+  
+          <p><input type="radio" name="quest2" id="falso2" value="0">
+          <label for="falso">Falso</label></p>
+        </div>
+
+        <div>
+        <label for="q3">3- Cada fase do projeto tem um determinado prazo a ser cumpruido, e este tempo estipulado pode sofrer variações. É correto afirmar que esta variação pode ocorrer entre duas e três semanas?</label>
+        <p><input type="radio" name="quest3" id="verdadeiro3" value="0">
+          <label for="verdadeiro">Verdadeiro</label></p>
+  
+          <p><input type="radio" name="quest3" id="falso3" value="1">
+          <label for="falso">Falso</label></p><!--Correto-->
+         </div>  
+          <!-- BOTOES-->
+        <p><button type="button" onclick="verificarRespostas()" class="corrigir">
+          Corrigir
+        </button>
+        <a href="modulo3_pg1.html">
+        <input type="button" id="enviarButton" value="Enviar" class="enviar" disabled>
+        </a></p>
+   </form>    
+   
+   <p id="resultado"></p>
+
+  </div>
+<script>
+function verificarRespostas() {
+    var acertos = 0;
+
+    // Verificando as respostas
+    var respostaQ1 = document.querySelector('input[name="quest1"]:checked');
+    var respostaQ2 = document.querySelector('input[name="quest2"]:checked');
+    var respostaQ3 = document.querySelector('input[name="quest3"]:checked');
+
+    // Se o usuário respondeu corretamente, aumenta a contagem de acertos
+    if (respostaQ1 && respostaQ1.value === "1") acertos++;
+    if (respostaQ2 && respostaQ2.value === "1") acertos++;
+    if (respostaQ3 && respostaQ3.value === "1") acertos++;
+
+    // Exibe o resultado
+    var resultado = document.getElementById('resultado');
+    if (acertos >= 2) {
+        resultado.textContent = "Você passou no questionário! Acertos: " + acertos;
+
+        // Habilitar o botão "Enviar"
+        document.getElementById('enviarButton').disabled = false;
+    } else {
+        resultado.textContent = "Você não passou. Acertos: " + acertos;
+
+        // Desabilitar o botão "Enviar"
+        document.getElementById('enviarButton').disabled = true;
+    }
+}
+</script>
+</body>
+</html>
