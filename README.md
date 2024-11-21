@@ -298,6 +298,8 @@ Nessa segunda sprint a gente buscou adiantar algumas tarefas que são mais difí
 
 # SPRINT 3
 
+Nessa sprint a gente fez as tarefas mais difíceis como o node.js e o banco de dados e toda essa interação entre eles para garantir que as informações do banco sejam puxadas pelo node, também terminamos de deixar todo site responsivo e focamos no JavaScript para garantir que o site efetue suas funções que estabelecidas. 
+
 <h2>SPRINT BACKLOG</h2>
 <table>
     <tr>
