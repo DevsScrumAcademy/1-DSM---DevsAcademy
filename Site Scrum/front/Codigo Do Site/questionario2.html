@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Questionário 1</title>
+    <link rel="stylesheet" href="css/estilos.css">
+    <script src="js/geral.js"></script>
+</head>
+<body style="background-color:rgb(70,130,180);">
+    <div class=caixa_de_navegacao>
+        <!-- TITULO -->
+        <div  class="titulo">
+          <h2>SCRUM ACADEMY<h2><img class="logo" src='img/logo_site.png'></a></a>
+        </div>
+        <!-- PERFIL -->
+        <div class="caixaperfil">
+          <p>      <a><img style="width: 55%; border-radius: 50%;" src="img/semftperfil.PNG"></a></p>
+          <a>Lorem Ipsum</a>
+          <a>LoremIpsum@fatec.sp.gov.br </a>
+          <br>
+        </div>
+        <!-- NAVEGACAO -->
+        <div class="caixanavegacao">
+          <p><a>Inicio </a></p>
+          <p><a>Introdução</a></p>
+          <p><a>Módulo 1</a></p>
+          <p><a>Módulo 2</a></p>
+          <p><a>Módulo 3</a></p>
+          <p><a>Módulo 4</a></p>
+          <p><a>Certificação</a></p>
+          </div>
+        <!-- CONTEUDO -->
+     <form id="quizForm">
+      <div class="conteudomodulo">
+        <div><br>
+      <h1>Questionário: Módulo 2</h1>
+        <label for="q1">1- Seria certo afirmar que o Product Owner, seria o guardião do sucesso do projeto, onde representa os interesses dos stakeholders e é responsável por priorizar as necessidades do cliente?</label> <br>  
+        <p><input type="radio" name="quest1" id="verdadeiro1" value="1">
+        <label for="verdadeiro">Verdadeiro</label></p><!--Correto-->
+
+        <p><input type="radio" name="quest1" id="falso1" value="0">
+        <label for="falso">Falso</label></p>
+        <br>
+      </div>
+
+        <div>
+        <label for="q2">2- O Scrum Master é responsável por gerenciar a equipe de desenvolvimento e definir as tarefas diárias.</label>
+        <p><input type="radio" name="quest2" id="verdadeiro2" value="0">
+          <label for="verdadeiro">Verdadeiro</label></p>
+  
+          <p><input type="radio" name="quest2" id="falso2" value="1">
+          <label for="falso">Falso</label></p><!--Correto-->
+        </div>
+
+        <div>
+        <label for="q3">3- A equipe de desenvolvimento deve ser multifuncional, possuindo todas as habilidades necessárias para entregar um incremento de produto.</label>
+        <p><input type="radio" name="quest3" id="verdadeiro3" value="1">
+          <label for="verdadeiro">Verdadeiro</label></p><!--Correto-->
+  
+          <p><input type="radio" name="quest3" id="falso3" value="0">
+          <label for="falso">Falso</label></p>
+         </div>  
+           <!-- BOTOES -->
+          <p><button type="button" id="corrigirButton" onclick="verificarRespostas()" class="corrigir">
+            Corrigir
+        </button>
+        <a href="modulo2_pg1.html">
+        <input type="button" id="enviarButton" value="Enviar" class="enviar" disabled onclick="enviarFormulario()"></a>
+        </p>
+        <p id="resultado"></p>
+    <p id="timer" style="font-size: xx-large; color: white;"></p> <!-- Exibição do temporizador -->
+    </div>
+    </form>
+</body>
+</html>

@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ScrumAcademy - Login</title>
+    <link href="css/estilos.css" rel="stylesheet" type="text/css">
+</head>
+<body>
+    <div style="display:flex; width:100vw; height:100vh;">
+        <div class="caixaLogin">
+            <div class="blocoImagem">
+                <img src="img/logo_site.png" alt="Logo DevScrum™" style="width:200px; height:200px;">
+                <h1>SCRUM ACADEMY</h1>
+                <h2>Login</h2>
+            </div>
+            <div>
+                <form method="post"> <!--post é mais seguro para lidar com logins porque ele manda as informações no corpo do pedido ao inves da url-->
+                    <div style="text-align:left; margin-left:auto; margin-right:auto; width:70%;">
+                        <label for="email">E-Mail:</label><br>
+                        <input name="login" id="email" type="email" class="loginTextbox" autocomplete="email"><br>
+                        <label for="senha">Senha:</label><br>
+                        <input name="senha" id="senha" type="password" class="loginTextbox" autocomplete="current-password"><br><br>
+                        <input type="checkbox" id="lembra" name="member">
+                        <label for="lembra" style="color:blue;">Lembre-se</label><br><br>
+                    </div>
+                    <button type="button" class="loginBotao" onclick="window.location.href = 'Cadastro.html';">Cadastro</button>
+                    <!--<input type="submit" value="Entrar" class="loginBotao"> Descomente-me quando o javascript do site estiver funcionando para o formulãrio postar informações-->
+                    <button type="button" class="loginBotao" onclick="window.location.href = 'inicio_do_curso.html';">Entrar</button>
+                </form>
+            </div>
+        </div>
+    </div>
+</body>
+</html>
