@@ -395,7 +395,8 @@ Nessa sprint a gente fez as tarefas mais difíceis como o node.js e o banco de d
     </tr>
 </table>
 
-<!---------- colocar as infos do BURNDOWN nesse lugar  --------------->
+
+[alt text](image.png)
 
 # SPRINT RETROSPECTIVE:
 Nessa última sprint, a gente teve algumas dificuldades na hora de gerir o tempo com alguns requisitos e atividades que demandavam mais tempo, como por exemplo, o node.js que necessitava de mais tempo para trabalhar pelo nível de complexidade que é para mexer no node. Nesse tempo de sprint, ficamos sem um membro da equipe que infelizmente deixou de vir por motivos de trabalho e família e não conseguiu estar presente no trabalho. Depois desse tempo de projeto, nós aprendemos muito com cada dificuldade e certamente para os próximos projetos estaremos preparados e mais capacitados para entregar um projeto muito melhor, entendo as dificuldades de cada um e seguindo o processo.
